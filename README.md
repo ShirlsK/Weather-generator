@@ -3,11 +3,11 @@
 A simple and fun **Weather Generator** built with **HTML**, **CSS**, and **JavaScript**.  
 Generates random weather conditions and displays weather icons, temperature, and warnings for extreme weather.
 
-## 🎮 Demo
+## Demo
 
 *The weather updates every 3 minutes automatically.*
 
-## ✨ Features
+## Features
 
 - Random weather generation with:
   - Sunny
@@ -22,20 +22,20 @@ Generates random weather conditions and displays weather icons, temperature, and
 - Warning messages for extreme weather (Stormy, Heatwave, Blizzard)
 - Responsive and clean UI
 
-## 🛠️ Technologies used
+## Technologies used
 
 - HTML5
 - CSS3 (animations + gradients + icons)
 - Vanilla JavaScript (DOM manipulation, setInterval)
 
-## 🗂️ Project Structure
+## Project Structure
 WeatherGenerator/
 ├── index.html
 ├── script.js
 ├── style.css
 └── README.md
 
-## 🚀 How to run the project
+## How to run the project
 
 ### Option 1️⃣ - Open locally
 
@@ -50,14 +50,14 @@ WeatherGenerator/
 
 → This will automatically refresh when you make changes.
 
-## 📝 How it works
+## How it works
 
 - On page load, a random weather condition is generated.
 - The display updates every 3 minutes (`setInterval`).
 - The weather icon and temperature are shown.
 - If an extreme weather condition is selected, a warning message is displayed.
 
-## 🚧 Future ideas
+## Future ideas
 
 - Add animations to rain and snow
 - Add icons for more weather conditions (fog, wind, hail)
